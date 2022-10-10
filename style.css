@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:#4f4f4f;
+  text-align:center;
+}
+
+h1 {
+  color:red;
+}
+
+h2 {
+  color:orange;
+}
+
+h3 {
+  color:#2683fd;
+  font-size:420%;
+}
